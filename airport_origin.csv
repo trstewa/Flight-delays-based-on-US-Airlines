@@ -1,0 +1,11 @@
+airport_from,airline_code,delay,delay_amount,Country,City,State
+ATL,DL,7173,891.2483424,United Stated,Atlanta,Georgia
+DFW,AA,5590,856.5253791,United Stated,Dallas,Texas
+LAS,WN,4874,838.5275157,United Stated,Los Angeles,California
+MDW,WN,4848,818.1703394,United Stated,Chicago,Illinois
+IAH,CO,4134,870.2989527,United Stated,Houston,Texas
+ATL,EV,4106,873.0220219,United Stated,Atlanta,Georgia
+PHX,WN,3681,825.715967,United Stated,Phoenix,Arizona
+BWI,WN,3676,808.2107996,United Stated,Baltimore,Maryland
+CLT,US,3160,897.3497815,United Stated,Charlotte,North Carolina
+IAH,XE,3063,850.8138948,United Stated,Houston,Texas
